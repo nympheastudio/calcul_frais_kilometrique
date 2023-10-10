@@ -1,6 +1,5 @@
 # Calcul Frais Kilométrique
 
-![Project Logo/Icon - Optional](link_to_your_logo_or_icon.png)
 
 **Description:**  
 Ce projet, intitulé "Calcul Frais Kilométrique," vise à fournir une solution pour le calcul des frais kilométriques liés à l'utilisation d'un véhicule. Il propose des fonctionnalités pour estimer les coûts associés à un trajet en fonction de la puissance du véhicule et de la distance parcourue.
@@ -13,6 +12,8 @@ Le projet "Calcul Frais Kilométrique" offre les fonctionnalités suivantes:
 - Calcul des frais kilométriques en fonction de la distance parcourue et de la puissance du véhicule.
 - Affichage du montant estimé en euros.
 - Possibilité de réinitialiser les valeurs et de recalculer.
+
+demo: https://nympheastudio.github.io/calcul_frais_kilometrique/
 
 ## Utilisation
 
